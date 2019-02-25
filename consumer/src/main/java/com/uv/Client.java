@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 /**
  * <uv> [2018/10/15 9:25]
  */
-public class Main {
+public class Client {
 
     public static void main(String[] args) throws InterruptedException {
         //连接到zookeeper
